@@ -1,5 +1,5 @@
 Note :This configuration is only for Windows users.
-# Step 1 : Clone the repository first
+## Step 1 : Clone the repository first
 
 ```
 git clone https://github.com/wajid9752/DD-Assignment-API.git
